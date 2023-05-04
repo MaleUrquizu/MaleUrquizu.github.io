@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Movies</title>
+</head>
+<body>
+
+    <header>
+        <a class="logo" href="">
+            <img src="imagenes/logo1.png" alt="">
+        </a>
+        <nav class="nav-links">
+            <ul>
+                <li><a href="#">
+                    <p class="name-tag">Home</p></a></li>
+                <li><a href="#">
+                    <p class="name-tagList">My List</p></a></li>
+                <li><a href="#">
+                    <p class="name-tag">Movies</p></a></li>
+                <li><a href="#">
+                    <p class="name-tag">Series</p></a></li>
+            </ul>
+        </nav>
+        <form id="form">
+            <input type="text" placeholder="Titles, characters, genres.." id="search" class="search">
+        </form>
+    </header>
+
+    <div id="banner">
+       <div id="banner_contents">
+           <h1 id="banner_title"></h1>
+           <div id="banner_buttons">
+               <div id="banner_button">Play</div>
+               <div id="banner_button">My List</div>
+           </div>
+           <p id="banner_description"></p>
+        </div>
+        <div id="banner_fadeBottom"></div>
+    </div>
+
+    <div id="tags">
+    </div>
+
+    <main id="main">
+    </main>
+
+    <div class="popup-mylist">
+    </div>
+    <div class="popup-container">
+    </div>
+
+
+    <script src="index.js"></script>
+    <script src="myList.js"></script>
+</body>
+</html>
