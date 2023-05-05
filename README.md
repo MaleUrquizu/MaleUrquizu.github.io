@@ -1,6 +1,6 @@
-#### :tw-26a1: Creacion de una sección de contenidos en página web consumiendo una API :tw-26a1:
+### ⚡ Creacion de una sección de contenidos en página web consumiendo una API ⚡
 
-#####Contexto del proyecto
+#### Contexto del proyecto
 
 Crear una sección de contenidos donde se muestren los productos de la empresa.
 
@@ -17,28 +17,28 @@ Extra:
 - Hacer Deploy.
 - Hacer algún tipo de test.
 
-#####Modalidades pedagógicas
+#### Modalidades pedagógicas
 - El proyecto será individual.
 - 1 semana para realizarlo.
 
-#####Modalidades pedagógicas
+#### Modalidades pedagógicas
 Se hará una presentación del proyecto.
 
-#####Entregables
+#### Entregables
 - Figma.
 - Link de github.
 - En caso de hacerlo, enviar el link del Deploy.
 
-#####Criterios de rendimiento
+#### Criterios de rendimiento
 - El codigo debe estar solo en un idioma, preferiblemente en inglés.
 - Debe tener un README para documentar el proyecto.
 - En caso de hacerlo, enviar el link del Deploy
 
 
- #### :tw-1f41d:  MI PROYECTO
-#####MOTH
+ #### 🦋  MI PROYECTO
+#### MOTH
 Cree mi proyecto utilizando la API **TMDB**, realicé una pagina web mostrando las peliculas en tarjetas con su respectivo nombre las cuales tienen su descripcion en un popup que se abre al clickear sobre ellas, incluí una barra de busqueda y filtros por géneros.
-#####Tecnologías utilizadas:
+#### Tecnologías utilizadas:
 - HTML
 - CSS
 - JavaScript
